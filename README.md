@@ -1,0 +1,1 @@
+# dirmon-discord-notifier
